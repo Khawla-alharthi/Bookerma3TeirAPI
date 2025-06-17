@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bookerma3TeirAPI.props" />
+</Project>

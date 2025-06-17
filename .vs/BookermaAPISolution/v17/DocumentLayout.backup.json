@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAA3136-4852-48BF-A1F4-083BBFEB014A}|Bookerma3TeirAPI\\Bookerma3TeirAPI.csproj|c:\\users\\user pc\\source\\repos\\bookermaapisolution\\bookerma3teirapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAA3136-4852-48BF-A1F4-083BBFEB014A}|Bookerma3TeirAPI\\Bookerma3TeirAPI.csproj|solutionrelative:bookerma3teirapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A28A2D0-D1CC-4739-B854-7EA9D56D072A}|Bookerma.BLL\\Bookerma.BLL.csproj|c:\\users\\user pc\\source\\repos\\bookermaapisolution\\bookerma.bll\\repositories\\genaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A28A2D0-D1CC-4739-B854-7EA9D56D072A}|Bookerma.BLL\\Bookerma.BLL.csproj|solutionrelative:bookerma.bll\\repositories\\genaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAA3136-4852-48BF-A1F4-083BBFEB014A}|Bookerma3TeirAPI\\Bookerma3TeirAPI.csproj|c:\\users\\user pc\\source\\repos\\bookermaapisolution\\bookerma3teirapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAA3136-4852-48BF-A1F4-083BBFEB014A}|Bookerma3TeirAPI\\Bookerma3TeirAPI.csproj|solutionrelative:bookerma3teirapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A28A2D0-D1CC-4739-B854-7EA9D56D072A}|Bookerma.BLL\\Bookerma.BLL.csproj|c:\\users\\user pc\\source\\repos\\bookermaapisolution\\bookerma.bll\\interfaces\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A28A2D0-D1CC-4739-B854-7EA9D56D072A}|Bookerma.BLL\\Bookerma.BLL.csproj|solutionrelative:bookerma.bll\\interfaces\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.DAL\\Migrations\\20250617145028_initialBookMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bookerma.DAL\\Migrations\\20250617145028_initialBookMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899CCDF8-0A53-4327-BB9B-FFFC25F17F0D}|Bookerma.DAL\\Bookerma.DAL.csproj|c:\\users\\user pc\\source\\repos\\bookermaapisolution\\bookerma.dal\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899CCDF8-0A53-4327-BB9B-FFFC25F17F0D}|Bookerma.DAL\\Bookerma.DAL.csproj|solutionrelative:bookerma.dal\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899CCDF8-0A53-4327-BB9B-FFFC25F17F0D}|Bookerma.DAL\\Bookerma.DAL.csproj|c:\\users\\user pc\\source\\repos\\bookermaapisolution\\bookerma.dal\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899CCDF8-0A53-4327-BB9B-FFFC25F17F0D}|Bookerma.DAL\\Bookerma.DAL.csproj|solutionrelative:bookerma.dal\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAA3136-4852-48BF-A1F4-083BBFEB014A}|Bookerma3TeirAPI\\Bookerma3TeirAPI.csproj|c:\\users\\user pc\\source\\repos\\bookermaapisolution\\bookerma3teirapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCAA3136-4852-48BF-A1F4-083BBFEB014A}|Bookerma3TeirAPI\\Bookerma3TeirAPI.csproj|solutionrelative:bookerma3teirapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAA3136-4852-48BF-A1F4-083BBFEB014A}|Bookerma3TeirAPI\\Bookerma3TeirAPI.csproj|c:\\users\\user pc\\source\\repos\\bookermaapisolution\\bookerma3teirapi\\bookerma3teirapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCAA3136-4852-48BF-A1F4-083BBFEB014A}|Bookerma3TeirAPI\\Bookerma3TeirAPI.csproj|solutionrelative:bookerma3teirapi\\bookerma3teirapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A28A2D0-D1CC-4739-B854-7EA9D56D072A}|Bookerma.BLL\\Bookerma.BLL.csproj|c:\\users\\user pc\\source\\repos\\bookermaapisolution\\bookerma.bll\\bookerma.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A28A2D0-D1CC-4739-B854-7EA9D56D072A}|Bookerma.BLL\\Bookerma.BLL.csproj|solutionrelative:bookerma.bll\\bookerma.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAA3136-4852-48BF-A1F4-083BBFEB014A}|Bookerma3TeirAPI\\Bookerma3TeirAPI.csproj|c:\\users\\user pc\\source\\repos\\bookermaapisolution\\bookerma3teirapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAA3136-4852-48BF-A1F4-083BBFEB014A}|Bookerma3TeirAPI\\Bookerma3TeirAPI.csproj|solutionrelative:bookerma3teirapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899CCDF8-0A53-4327-BB9B-FFFC25F17F0D}|Bookerma.DAL\\Bookerma.DAL.csproj|c:\\users\\user pc\\source\\repos\\bookermaapisolution\\bookerma.dal\\bookerma.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{899CCDF8-0A53-4327-BB9B-FFFC25F17F0D}|Bookerma.DAL\\Bookerma.DAL.csproj|solutionrelative:bookerma.dal\\bookerma.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A28A2D0-D1CC-4739-B854-7EA9D56D072A}|Bookerma.BLL\\Bookerma.BLL.csproj|c:\\users\\user pc\\source\\repos\\bookermaapisolution\\bookerma.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A28A2D0-D1CC-4739-B854-7EA9D56D072A}|Bookerma.BLL\\Bookerma.BLL.csproj|solutionrelative:bookerma.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899CCDF8-0A53-4327-BB9B-FFFC25F17F0D}|Bookerma.DAL\\Bookerma.DAL.csproj|c:\\users\\user pc\\source\\repos\\bookermaapisolution\\bookerma.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899CCDF8-0A53-4327-BB9B-FFFC25F17F0D}|Bookerma.DAL\\Bookerma.DAL.csproj|solutionrelative:bookerma.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma3TeirAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Bookerma3TeirAPI\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma3TeirAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Bookerma3TeirAPI\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:51:39.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250617145028_initialBookMigration.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.DAL\\Migrations\\20250617145028_initialBookMigration.cs",
+              "RelativeDocumentMoniker": "Bookerma.DAL\\Migrations\\20250617145028_initialBookMigration.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.DAL\\Migrations\\20250617145028_initialBookMigration.cs",
+              "RelativeToolTip": "Bookerma.DAL\\Migrations\\20250617145028_initialBookMigration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:50:28.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenaricRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.BLL\\Repositories\\GenaricRepository.cs",
+              "RelativeDocumentMoniker": "Bookerma.BLL\\Repositories\\GenaricRepository.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.BLL\\Repositories\\GenaricRepository.cs",
+              "RelativeToolTip": "Bookerma.BLL\\Repositories\\GenaricRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:31:15.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGenaricRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.BLL\\Interfaces\\IGenaricRepository.cs",
+              "RelativeDocumentMoniker": "Bookerma.BLL\\Interfaces\\IGenaricRepository.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.BLL\\Interfaces\\IGenaricRepository.cs",
+              "RelativeToolTip": "Bookerma.BLL\\Interfaces\\IGenaricRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:30:16.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma3TeirAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Bookerma3TeirAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma3TeirAPI\\Program.cs",
+              "RelativeToolTip": "Bookerma3TeirAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:16:31.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma3TeirAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Bookerma3TeirAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma3TeirAPI\\appsettings.json",
+              "RelativeToolTip": "Bookerma3TeirAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T14:19:22.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.DAL\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Bookerma.DAL\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.DAL\\Models\\Book.cs",
+              "RelativeToolTip": "Bookerma.DAL\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:50:45.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bookerma3TeirAPI",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma3TeirAPI\\Bookerma3TeirAPI.csproj",
+              "RelativeDocumentMoniker": "Bookerma3TeirAPI\\Bookerma3TeirAPI.csproj",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma3TeirAPI\\Bookerma3TeirAPI.csproj",
+              "RelativeToolTip": "Bookerma3TeirAPI\\Bookerma3TeirAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T14:17:15.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bookerma.BLL",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.BLL\\Bookerma.BLL.csproj",
+              "RelativeDocumentMoniker": "Bookerma.BLL\\Bookerma.BLL.csproj",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.BLL\\Bookerma.BLL.csproj",
+              "RelativeToolTip": "Bookerma.BLL\\Bookerma.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T14:17:26.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.DAL\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Bookerma.DAL\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.DAL\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Bookerma.DAL\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADgvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:51:20.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma3TeirAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Bookerma3TeirAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma3TeirAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "Bookerma3TeirAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:17:02.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bookerma.DAL",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.DAL\\Bookerma.DAL.csproj",
+              "RelativeDocumentMoniker": "Bookerma.DAL\\Bookerma.DAL.csproj",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.DAL\\Bookerma.DAL.csproj",
+              "RelativeToolTip": "Bookerma.DAL\\Bookerma.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T12:45:38.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "Bookerma.BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.BLL\\Class1.cs",
+              "RelativeToolTip": "Bookerma.BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:45:27.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "Bookerma.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\BookermaAPISolution\\Bookerma.DAL\\Class1.cs",
+              "RelativeToolTip": "Bookerma.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:45:06.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

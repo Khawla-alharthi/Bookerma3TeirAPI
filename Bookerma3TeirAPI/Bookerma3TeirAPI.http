@@ -1,0 +1,6 @@
+@Bookerma3TeirAPI_HostAddress = http://localhost:5002
+
+GET {{Bookerma3TeirAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

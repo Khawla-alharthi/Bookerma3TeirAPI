@@ -1,0 +1,12 @@
+C:\Users\user pc\source\repos\BookermaAPISolution\Bookerma.DAL\bin\Debug\net8.0\Bookerma.DAL.deps.json
+C:\Users\user pc\source\repos\BookermaAPISolution\Bookerma.DAL\bin\Debug\net8.0\Bookerma.DAL.dll
+C:\Users\user pc\source\repos\BookermaAPISolution\Bookerma.DAL\bin\Debug\net8.0\Bookerma.DAL.pdb
+C:\Users\user pc\source\repos\BookermaAPISolution\Bookerma.DAL\obj\Debug\net8.0\Bookerma.DAL.csproj.AssemblyReference.cache
+C:\Users\user pc\source\repos\BookermaAPISolution\Bookerma.DAL\obj\Debug\net8.0\Bookerma.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user pc\source\repos\BookermaAPISolution\Bookerma.DAL\obj\Debug\net8.0\Bookerma.DAL.AssemblyInfoInputs.cache
+C:\Users\user pc\source\repos\BookermaAPISolution\Bookerma.DAL\obj\Debug\net8.0\Bookerma.DAL.AssemblyInfo.cs
+C:\Users\user pc\source\repos\BookermaAPISolution\Bookerma.DAL\obj\Debug\net8.0\Bookerma.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user pc\source\repos\BookermaAPISolution\Bookerma.DAL\obj\Debug\net8.0\Bookerma.DAL.dll
+C:\Users\user pc\source\repos\BookermaAPISolution\Bookerma.DAL\obj\Debug\net8.0\refint\Bookerma.DAL.dll
+C:\Users\user pc\source\repos\BookermaAPISolution\Bookerma.DAL\obj\Debug\net8.0\Bookerma.DAL.pdb
+C:\Users\user pc\source\repos\BookermaAPISolution\Bookerma.DAL\obj\Debug\net8.0\ref\Bookerma.DAL.dll
